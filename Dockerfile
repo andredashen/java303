@@ -29,4 +29,4 @@ COPY /stuff /home/stuff
 RUN apt-get clean && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 
 # Run bot script:
-CMD CMD bash /home/startbot.sh
+CMD bash /home/startbot.sh
